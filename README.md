@@ -1,5 +1,5 @@
 <h1 align="center">furkan-kayapinar</h1>
-<h3 align="center">juniour developer</h3>
+<h3 align="center">juniourDeveloper</h3>
 
 - 📫 How to reach me **johsquaree@gmail.com**
 
