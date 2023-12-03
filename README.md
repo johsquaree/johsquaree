@@ -1,7 +1,7 @@
 <h1 align="center">furkan-kayapinar</h1>
 <h3 align="center">jr.backend developer</h3>
 
-- 📫 How to reach me **johsquaree@gmail.com**
+ 📫 **johsquaree@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
