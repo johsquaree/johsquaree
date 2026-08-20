@@ -2,6 +2,10 @@
   <img src="https://komarev.com/ghpvc/?username=johsquaree&label=Profile%20views&color=0e75b6&style=flat" alt="johsquaree profile views" />
 </p>
 
+<table>
+<tr>
+<td valign="top">
+
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   <a href="https://golang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/></a>
@@ -39,6 +43,19 @@
 <p align="left">
   <a href="https://claude.ai" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/claude" alt="claude" width="40" height="40"/></a>
 </p>
+
+</td>
+<td valign="top">
+
+- Computer Engineer
+- Backend & data-adjacent: Python, Go, Node.js
+- Currently diving into agentic AI & RAG systems
+- Rapid learner across stacks — Go, Swift, Kotlin picked up on the fly
+- linkedin.com/in/furkan-kayapinar
+
+</td>
+</tr>
+</table>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/johsquaree/johsquaree/output/github-contribution-grid-snake-dark.svg">
